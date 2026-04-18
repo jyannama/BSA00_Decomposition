@@ -1,43 +1,46 @@
-📌 Project Overview
+🚀 Business/System Analysis Fundamentals
+📌 Overview
 
-This project focuses on the role of a Business/System Analyst in software development and key concepts used in system design.
+This project demonstrates core Business/System Analysis skills applied to system design and requirements definition. It focuses on structuring complex systems, identifying key information, and building a clear analytical foundation for further development.
 
-🎯 Goals
-Understand the software development lifecycle
-Work with information sources
-Build and maintain a project glossary
-Apply decomposition techniques for system analysis
-🧠 Key Concepts
-Software Development Lifecycle
-Requirements gathering
-Design
-Development
-Testing
-Implementation
-Maintenance
-Analyst Responsibilities
-Identify and analyze information sources
-Ensure consistency of terms and concepts
-Structure complex systems using decomposition
+🎯 Objectives
+Analyze system requirements and information sources
+Ensure consistency in terminology and concepts
+Structure complex systems using decomposition techniques
+Apply analytical thinking to real-world scenarios
+
+🧩 Key Contributions
+🔍 Requirements & Analysis
+Identified and structured relevant information sources
+Evaluated data reliability and relevance
+Built a foundation for requirement gathering
+📚 Glossary Development
+Created and maintained a consistent terminology system
+Eliminated ambiguity in system interpretation
+Ensured clarity across all artifacts
+🏗 System Decomposition
+Applied decomposition to break down complex systems
+Structured system into logical components and functions
+Defined relationships between subsystems
+
+🧠 Core Concepts Applied
+System Thinking
+Understanding the system as a set of interconnected components rather than isolated parts
 Decomposition
+Breaking down a system into manageable elements to simplify analysis and design
+Analytical Structuring
+Organizing data, processes, and components into a clear and scalable structure
 
-Breaking a system into smaller parts to simplify analysis and design.
+🛠 Tools & Artifacts
+Draw.io / Miro (diagrams)
+Excel / Google Sheets (structured data, glossary)
+Documentation (requirements, analysis)
 
-Types:
+📊 Outcome
+A structured analytical approach to system design, enabling:
+Clear understanding of system architecture
+Reduced ambiguity in requirements
 
-Functional (what the system does)
-Component (what the system consists of)
-Structural / temporal
+💡 Key Takeaway
 
-Rules:
-
-Clear hierarchy (top-down)
-One criterion per level
-Completeness and no overlap between elements
-🛠 What was done
-Identified and structured information sources
-Created a glossary of key terms
-Built decompositions for system analysis tasks
-📊 Result
-
-A structured approach to analyzing systems and defining requirements using core Business Analysis techniques.
+Strong analysis is the foundation of any successful system. This project demonstrates the ability to transform unstructured information into clear, logical, and actionable system insights.
